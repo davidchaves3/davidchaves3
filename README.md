@@ -1,14 +1,12 @@
 <h1>Salve, Salve! Eu sou o David Chaves <img 
 src= "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> 
 
--🔥 Desenvolvedor FullStack Jr
-
 -📚 Cursando Eng. Software
 
 
 <br><br>
 
-##🛠Tecnologias que domino
+🛠Tecnologias que domino
 
 <img align="center" alt="HTML5" 
 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -27,6 +25,6 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
 
 <br><br>
 
-## &nbsp;Social links
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-almeida-chaves-2a8474246)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidc.chaves/)
+ &nbsp;Social links
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-almeida-chaves-2a8474246) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidc.chaves/)
 
