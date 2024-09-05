@@ -15,7 +15,7 @@ src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typ
 <img align="center" alt="Python" 
 src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
- # ⚙ &nbsp;Github Analytics
+ #⚙ &nbsp;Github Analytics
 
 <p align="left">
 <img width="505em" src="https://github-readme-stats.vercel.app/api?username=davidchaves3&theme=blue-green&show_icons=true" alt="davidchaves3's stats"/>
