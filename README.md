@@ -19,10 +19,7 @@
 
 ## 📊 GitHub Analytics
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=davidchaves3&theme=blue-green&show_icons=true" alt="davidchaves3's stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidchaves3&layout=compact&theme=blue-green" alt="davidchaves3's most used languages"/>
-</p>
+
 
 <br>
 
